@@ -531,6 +531,7 @@
 3.  [Heyday](https://heyday.xyz/?ref=futurepedia)
 4.  [Mem.ai](https://mem.ai/?ref=futurepedia)
 5.  [Personal.ai](https://www.personal.ai/?ref=futurepedia)
+6.  [Remio](https://remio.ai/)
 
 # Music
 
