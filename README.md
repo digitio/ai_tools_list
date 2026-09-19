@@ -383,6 +383,7 @@
 12.  [Kore.ai](https://kore.ai/?ref=futurepedia)
 13.  [JobtitlesAI](https://jobtitlesai.com/?ref=futurepedia)
 14.  [Resume Worded](https://resumeworded.com/index.php?ref=futurepedia)
+15.  [ResumeAI](https://withresumeai.com/) - Free ATS resume checker (3/day no account, 10/day free) + State of ATS 2026 (738 employers, Workday 37.9%).
 15.  [HireYaY](https://hireyay.com/?ref=futurepedia)
 
 # Image Editing
