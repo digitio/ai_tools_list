@@ -201,6 +201,7 @@
 32.  [Stenography](https://stenography.dev/?ref=futurepedia)
 33.  [Dust](https://dust.tt/?ref=futurepedia)
 34.  [CSM](https://csm.ai/?ref=futurepedia)
+35.  [agent-qa](https://vostride.com) — Web and mobile QA via CLI/MCP, with memidex persistent memory and validated self-improvement.
 
 # Education Assistant
 
